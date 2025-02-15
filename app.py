@@ -6,7 +6,7 @@ from io import BytesIO
 from PIL import Image
 
 # Set your Gemini API Key
-GEMINI_API_KEY = "AIzaSyCADiHvj7uQ0Ekovs_Gg1zQYoZtYUKqDNQ"
+GEMINI_API_KEY = "-"
 
 # Define the Gemini API URL
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
